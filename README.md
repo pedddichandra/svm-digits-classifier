@@ -11,7 +11,7 @@ Deployed with **Streamlit** for interactive predictions.
 
 Example visualization:
 
-![Sample Digits](images/sample_digits.png)
+[View Sample Digits PDF](svmim.pdf)
 
 ---
 
